@@ -17,6 +17,7 @@ makeCacheMatrix <- function(x = matrix()) {
 		getmean = getmean
 }
 
+
 ## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) {
